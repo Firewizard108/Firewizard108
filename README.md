@@ -2,7 +2,7 @@
 - 👀 I’m interested in NFTs
 - 🌱 I’m currently learning NFTs
 - 💞️ I’m looking to collaborate on NFTs
-- 📫 How to reach me tedshaw@me.com
+- 📫 How to reach me
 
 <!---
 Firewizard108/Firewizard108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
